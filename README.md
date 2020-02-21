@@ -8,4 +8,4 @@ Russian Roulette For Linux (Can Be Fatal)
 5. GLHF!<p>
 <br>
 <h1>How To Run</h1>
-This is very simple to run, download it on a linux machine, then run ```bash roulette.sh```.
+This is very simple to run, download it on a linux machine, then run bash roulette.sh.
